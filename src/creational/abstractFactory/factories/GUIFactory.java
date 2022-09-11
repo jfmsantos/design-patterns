@@ -1,5 +1,10 @@
 package creational.abstractFactory.factories;
 
-public interface GUIFactory {
 
+import creational.abstractFactory.buttons.Button;
+import creational.abstractFactory.checkboxes.Checkbox;
+
+public interface GUIFactory {
+	Button createButton();
+	Checkbox createCheckBox();
 }

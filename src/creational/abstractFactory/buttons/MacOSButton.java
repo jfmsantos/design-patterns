@@ -1,5 +1,10 @@
 package creational.abstractFactory.buttons;
 
-public class MacOSButton {
+public class MacOSButton implements Button {
+
+	@Override
+	public void paint() {
+		System.out.println("You have created a MacOSButton.");
+	}
 
 }
