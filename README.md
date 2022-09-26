@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/jfmsantos/design-patterns/tree/master/src/creational">Padrões criacionais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#">Padrões estruturais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jfmsantos/design-patterns/tree/master/src/estruturais">Padrões estruturais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#">Padrões comportamentais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
