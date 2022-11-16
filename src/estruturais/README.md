@@ -1,5 +1,5 @@
 <h1 align="center">
-  Padrões Criacionais
+  Padrões Estruturais
 </h1>
 
 <p align="center">
