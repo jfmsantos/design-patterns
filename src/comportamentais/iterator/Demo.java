@@ -12,7 +12,7 @@ import comportamentais.iterator.socialSpammer.SocialSpammer;
 
 public class Demo {
 	private static final String ANNA_SMITH_BING_COM = "anna.smith@bing.com";
-	public static Scanner scanner = new Scanner(System.in);
+	public static final Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {
 		
