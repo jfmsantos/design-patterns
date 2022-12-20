@@ -10,7 +10,7 @@ import comportamentais.chain_of_responsibility.middleware.ThrottlingMiddleware;
 import comportamentais.chain_of_responsibility.middleware.UserExistsMiddleware;
 import comportamentais.chain_of_responsibility.server.Server;
 
-public class demo {
+public class Demo {
 	private static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private static Server server;
     
