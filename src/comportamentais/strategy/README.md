@@ -62,6 +62,7 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
  ✔  Princípio aberto/fechado. Você pode introduzir novas estratégias sem mudar o contexto.
  <br>
  ✘		Se você só tem um par de algoritmos e eles raramente mudam, não há motivo real para deixar o programa mais complicado com novas classes e interfaces que vêm junto com o padrão.
+ <br>
  ✘		Os Clientes devem estar cientes das diferenças entre as estratégias para serem capazes de selecionar a adequada.
  <br>
  ✘		Muitas linguagens de programação modernas tem suporte do tipo funcional que permite que você implemente diferentes versões de um algoritmo dentro de um conjunto de funções anônimas. Então você poderia usar essas funções exatamente como se estivesse usando objetos estratégia, mas sem inchar seu código com classes e interfaces adicionais.
