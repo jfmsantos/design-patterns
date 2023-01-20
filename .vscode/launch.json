@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "comportamentais.chain_of_responsibility.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(1)",
+            "request": "launch",
+            "mainClass": "comportamentais.command.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(2)",
+            "request": "launch",
+            "mainClass": "comportamentais.iterator.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(3)",
+            "request": "launch",
+            "mainClass": "comportamentais.mediator.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(4)",
+            "request": "launch",
+            "mainClass": "comportamentais.memento.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(5)",
+            "request": "launch",
+            "mainClass": "comportamentais.observer.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(6)",
+            "request": "launch",
+            "mainClass": "comportamentais.state.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(7)",
+            "request": "launch",
+            "mainClass": "comportamentais.strategy.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(8)",
+            "request": "launch",
+            "mainClass": "creational.abstractFactory.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(9)",
+            "request": "launch",
+            "mainClass": "creational.builder.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(10)",
+            "request": "launch",
+            "mainClass": "creational.factoryMethod.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(11)",
+            "request": "launch",
+            "mainClass": "creational.prototype.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoMultiThread",
+            "request": "launch",
+            "mainClass": "creational.singleton.non_thread_safe.DemoMultiThread",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoSingleThread",
+            "request": "launch",
+            "mainClass": "creational.singleton.non_thread_safe.DemoSingleThread",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoMultiThread(1)",
+            "request": "launch",
+            "mainClass": "creational.singleton.thread_safe.DemoMultiThread",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(12)",
+            "request": "launch",
+            "mainClass": "estruturais.adapter.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(13)",
+            "request": "launch",
+            "mainClass": "estruturais.bridge.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(14)",
+            "request": "launch",
+            "mainClass": "estruturais.composite.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(15)",
+            "request": "launch",
+            "mainClass": "estruturais.decorator.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(16)",
+            "request": "launch",
+            "mainClass": "estruturais.facade.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(17)",
+            "request": "launch",
+            "mainClass": "estruturais.flyweight.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(18)",
+            "request": "launch",
+            "mainClass": "estruturais.proxy.Demo",
+            "projectName": "design-patterns (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(19)",
+            "request": "launch",
+            "mainClass": "comportamentais.chain_of_responsibility.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(20)",
+            "request": "launch",
+            "mainClass": "comportamentais.command.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(21)",
+            "request": "launch",
+            "mainClass": "comportamentais.iterator.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(22)",
+            "request": "launch",
+            "mainClass": "comportamentais.mediator.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(23)",
+            "request": "launch",
+            "mainClass": "comportamentais.memento.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(24)",
+            "request": "launch",
+            "mainClass": "comportamentais.observer.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(25)",
+            "request": "launch",
+            "mainClass": "comportamentais.state.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(26)",
+            "request": "launch",
+            "mainClass": "comportamentais.strategy.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(27)",
+            "request": "launch",
+            "mainClass": "comportamentais.template.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(28)",
+            "request": "launch",
+            "mainClass": "creational.abstractFactory.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(29)",
+            "request": "launch",
+            "mainClass": "creational.builder.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(30)",
+            "request": "launch",
+            "mainClass": "creational.factoryMethod.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(31)",
+            "request": "launch",
+            "mainClass": "creational.prototype.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoMultiThread(2)",
+            "request": "launch",
+            "mainClass": "creational.singleton.non_thread_safe.DemoMultiThread",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoSingleThread(1)",
+            "request": "launch",
+            "mainClass": "creational.singleton.non_thread_safe.DemoSingleThread",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoMultiThread(3)",
+            "request": "launch",
+            "mainClass": "creational.singleton.thread_safe.DemoMultiThread",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(32)",
+            "request": "launch",
+            "mainClass": "estruturais.adapter.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(33)",
+            "request": "launch",
+            "mainClass": "estruturais.bridge.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(34)",
+            "request": "launch",
+            "mainClass": "estruturais.composite.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(35)",
+            "request": "launch",
+            "mainClass": "estruturais.decorator.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(36)",
+            "request": "launch",
+            "mainClass": "estruturais.facade.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(37)",
+            "request": "launch",
+            "mainClass": "estruturais.flyweight.Demo",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo(38)",
+            "request": "launch",
+            "mainClass": "estruturais.proxy.Demo",
+            "projectName": "design-patterns"
+        }
+    ]
+}
