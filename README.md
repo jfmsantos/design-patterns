@@ -1,7 +1,25 @@
-![GitHub contributors](https://img.shields.io/github/contributors/jfmsantos/design-patterns?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/jfmsantos/design-patterns?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jfmsantos/design-patterns?style=for-the-badge)
-![GitHub linkedin-shield](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555/m/jfmsantos/design-patterns?style=for-the-badge)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jfmsantos/design-patterns.svg?style=for-the-badge
+[contributors-url]: https://github.com/jfmsantos/design-patterns/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jfmsantos/design-patterns.svg?style=for-the-badge
+[forks-url]: https://github.com/jfmsantos/design-patterns/network/members
+[stars-shield]: https://img.shields.io/github/stars/jfmsantos/design-patterns.svg?style=for-the-badge
+[stars-url]: https://github.com/jfmsantos/design-patterns/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jfmsantos/design-patterns.svg?style=for-the-badge
+[issues-url]: https://github.com/jfmsantos/design-patterns/issues
+[license-shield]: https://img.shields.io/github/license/jfmsantos/design-patterns.svg?style=for-the-badge
+[license-url]: https://github.com/jfmsantos/design-patterns/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/fabricio-menezes/
+[product-screenshot]: images/screenshot.png
 
 
 
